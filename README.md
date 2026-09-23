@@ -1,6 +1,7 @@
 # Studi_Kasus_5_Ahmad-Raihan-Sangkan-Ladunni
 **KODE:**
-<img width="2136" height="930" alt="image" src="https://github.com/user-attachments/assets/3efd8fc6-dc92-403b-b136-305dcf90053e" />
+<img width="1876" height="958" alt="image" src="https://github.com/user-attachments/assets/352fc96d-b931-4be0-b7ec-4f23717fe666" />
+
 
 
 **OUTPUT:**
